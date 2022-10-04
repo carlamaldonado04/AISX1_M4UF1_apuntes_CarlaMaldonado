@@ -1,8 +1,8 @@
 # AISX1_M4UF1_apuntes_CarlaMaldonado
-#DOCUMENTACIÓN DE LA UF1 CON MARKDOWN#
+# DOCUMENTACIÓN DE LA UF1 CON MARKDOWN #
 En este documento podremos aprender algunas etiquetas básicas de Markdown.
 
-##ÍNDICE
+## ÍNDICE ##
 1. Encabezados
 2. Estilos de letra
 3. Listas (ordenadas y desordenas)
@@ -12,7 +12,7 @@ En este documento podremos aprender algunas etiquetas básicas de Markdown.
 7. Imágenes
 8. Tablas
 
-###ENCABEZADOS
+### ENCABEZADOS ###
 
 ````
 #H1#
