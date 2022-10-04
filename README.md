@@ -84,6 +84,7 @@ Para crear parráfos con Markdown tan solo hay que dejar una línea en blanco.
     tan solo deberemos añadir dos acentos abiertos al inicio y dos al final de la palabra 
     que queramos resaltar
 \``código``
+
 ``código``
 ### ENLACES ###
 
