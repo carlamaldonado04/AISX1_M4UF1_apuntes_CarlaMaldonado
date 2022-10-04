@@ -32,13 +32,11 @@ Añadiendo # podemos cambiar el tamaño de nuestros títulos, cuantos más ponga
 
  #### NEGRITA ####
   
-     Si lo que queremos es enfatizar una palabra o conjunto de palabras,
-     
-     lo único que debemos de hacer es añadir dos asteriscos (*) al principio y al final. 
-     Otra manera de hacerlo es añadiendo dos barras bajas (_), 
-     también al inicio y al final de la palabra. 
-     Más adelante veremos porque nos interesa saber las
-     dos maneras de poner en negrita nuestro texto.
+     Si lo que queremos es enfatizar una palabra o conjunto de palabras, lo único que debemos 
+     de hacer es añadir dos asteriscos (*) al principio y al final. 
+     Otra manera de hacerlo es añadiendo dos barras bajas (_), también al inicio y al final 
+     de la palabra. 
+     Más adelante veremos porque nos interesa saber las dos maneras de poner en negrita nuestro texto.
 
  #### ITÁLICA ####
     Por otra parte, si lo que queremos es citar alguna palabra extranjera o 
