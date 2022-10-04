@@ -24,7 +24,7 @@ Añadiendo # podemos cambiar el tamaño de nuestros títulos, cuantos más ponga
 #####H5#####
 ######H6######
 
-````
+
 ### ESTILOS DE LETRA ###
   Para cambiar el estilo de nuestro texto, 
          podemos hacerlo de tres maneras diferentes,
@@ -38,7 +38,7 @@ Añadiendo # podemos cambiar el tamaño de nuestros títulos, cuantos más ponga
      >Otra manera de hacerlo es añadiendo dos barras bajas (_), 
      
      también al inicio y al final de la palabra. 
-     
+
      >Más adelante veremos porque nos interesa saber las
      
       dos maneras de poner en negrita nuestro texto.
