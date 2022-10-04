@@ -16,14 +16,16 @@ En este documento podremos aprender algunas etiquetas básicas de Markdown, que 
 Añadiendo # podemos cambiar el tamaño de nuestros títulos, cuantos más pongamos más pequeño será. 
 
 
-````
-#H1#
-##H2##
-###H3###
-####H4####
-#####H5#####
-######H6######
-´´´´
+
+\#H1#
+\##H2##
+\###H3###
+\####H4####
+\#####H5#####
+\######H6######
+
+
+
 
 ### ESTILOS DE LETRA ###
   Para cambiar el estilo de nuestro texto, 
@@ -35,11 +37,9 @@ Añadiendo # podemos cambiar el tamaño de nuestros títulos, cuantos más ponga
      Si lo que queremos es enfatizar una palabra o conjunto de palabras,
      
      lo único que debemos de hacer es añadir dos asteriscos (*) al principio y al final. 
-     >Otra manera de hacerlo es añadiendo dos barras bajas (_), 
+     Otra manera de hacerlo es añadiendo dos barras bajas (_), 
      
-     también al inicio y al final de la palabra. 
-
-     >Más adelante veremos porque nos interesa saber las
+     también al inicio y al final de la palabra. Más adelante veremos porque nos interesa saber las
      
       dos maneras de poner en negrita nuestro texto.
 
