@@ -46,8 +46,8 @@ Añadiendo # podemos cambiar el tamaño de nuestros títulos, cuantos más ponga
     Antes hemos comentado dos formas para cambiar el estilo de nuestra letra, pues bien, eso 
     nos será útil cuando queramos ambos modos. 
     Es tan sencillo como emplear ambas técnicas a la vez, podemos empezar con un esterisco seguido 
-    de dos barras bajas, insertar la palabra, cerrar las 
-    barras baja y luego el esterisco o viceversa.
+    de dos barras bajas, insertar la palabra, cerrar las barras baja y luego el esterisco o 
+    viceversa.
     
 |MARCKDOWN|RESULTADO|
 |:---------:|:---------:|
@@ -72,7 +72,8 @@ Tenemos dos tipos de listas: ordenas y desordenadas.
     las cuales se crean de dos maneras: con un *, con un + o bien con un -
     Ambas tres tendrán el mismo efecto, es decir, se convertirán en un punto
     \+ primer elemento +PRIMER
-    *primer elemento
+*primer elemento
+* PRIMER
 
 
 ### PARRÁFOS ###
