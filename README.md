@@ -79,7 +79,7 @@ Tenemos dos tipos de listas: ordenas y desordenadas.
 ### PARRÁFOS ###
 Para crear parráfos con Markdown tan solo hay que dejar una línea en blanco.
 
-### CÓDIGO ###`
+### CÓDIGO ###
     Las palabras en código pueden ser útiles para captar la atención del usuario, para ello 
     tan solo deberemos añadir dos acentos abiertos al inicio y dos al final de la palabra 
     que queramos resaltar
