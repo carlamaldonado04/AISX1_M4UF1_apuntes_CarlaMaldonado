@@ -16,15 +16,13 @@ En este documento podremos aprender algunas etiquetas básicas de Markdown, que 
 Añadiendo # podemos cambiar el tamaño de nuestros títulos, cuantos más pongamos más pequeño será. 
 
 
-
-\#H1#
-\##H2##
-\###H3###
-\####H4####
-\#####H5#####
-\######H6######
-
-
+|MARKDOWN|RESULTADO|
+|\#H1#|#H1#|
+|\##H2##|##H2##|
+|\###H3###|###H3###|
+|\####H4####|####H4####|
+|\#####H5#####|#####H5#####|
+|\######H6######|######H6######|
 
 
 ### ESTILOS DE LETRA ###
@@ -38,13 +36,23 @@ Añadiendo # podemos cambiar el tamaño de nuestros títulos, cuantos más ponga
      
      lo único que debemos de hacer es añadir dos asteriscos (*) al principio y al final. 
      Otra manera de hacerlo es añadiendo dos barras bajas (_), 
-     
-     también al inicio y al final de la palabra. Más adelante veremos porque nos interesa saber las
-     
-      dos maneras de poner en negrita nuestro texto.
+     también al inicio y al final de la palabra. 
+     Más adelante veremos porque nos interesa saber las
+     dos maneras de poner en negrita nuestro texto.
 
  #### ITÁLICA ####
-    Por otra parte, si lo que queremos es citar alguna palabra extranjera o captar la atención del lector de una manera diferente, podemos usar la letra itálica de una forma muy similar a la que usamos para la letra negrita. Solo tenemos que añadir un asterisco (*) o una barra baja (_), al principio y al final de lo que queramos en cursiva.
+    Por otra parte, si lo que queremos es citar alguna palabra extranjera o 
+    captar la atención del lector de una manera diferente, podemos usar la 
+    letra itálica de una forma muy similar a la que usamos para la letra negrita. 
+    Solo tenemos que añadir un asterisco (*) o una barra baja (_), al principio y 
+    al final de lo que queramos en cursiva.
+
+#### ANIDAR ESTILOS ####
+    Antes hemos comentado dos formas para cambiar el estilo de nuestra letra, 
+    pues bien, eso nos será útil cuando queramos ambos modos. 
+    Es tan sencillo como emplear ambas técnicas a la vez, podemos empezar con 
+    un esterisco seguido de dos barras bajas, insertar la palabra, cerrar las 
+    barras baja y luego el esterisco o viceversa.
     
 |MARCKDOWN|RESULTADO|
 |---------|---------|
@@ -53,6 +61,32 @@ Añadiendo # podemos cambiar el tamaño de nuestros títulos, cuantos más ponga
 |\*cursiva*|*cursiva*|
 |\_cursiva_|_cursiva_|
 |\_** cursivanegrita**_ | **_cursivanegrita_**|
+
+### LISTAS ###
+Tenemos dos tipos de listas: ordenas y desordenadas.
+
+ #### LISTAS ORDENADAS ####
+    Las listas ordenadas son aquellas que están numeradas.
+    Para hacerlas solo tenemos que númerar nuestra lista y 
+    añadir un punto después del número, es decir,
+    \1. primer elemento     1. primer elemento
+    \2. segundo elemento    2. segundo elemento
+
+ #### LISTAS DESORDENADAS ####
+    Si lo que queremos no es una lista numerada, podemos usar las listas desordendas, 
+    las cuales se crean de dos maneras: con un *, con un + o bien con un -
+    Ambas tres tendrán el mismo efecto, es decir, se convertirán en un punto
+    \+ primer elemento --> +primer elemento
+
+
+### PARRÁFOS ###
+Para crear parráfos con Markdown tan solo hay que dejar una línea en blanco.
+
+### CÓDIGO ###
+
+
+
+
 
 
 
