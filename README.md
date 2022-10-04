@@ -15,15 +15,10 @@ En este documento podremos aprender algunas etiquetas básicas de Markdown, que 
 ### ENCABEZADOS ###
 Añadiendo # podemos cambiar el tamaño de nuestros títulos, cuantos más pongamos más pequeño será. 
 
-
-|MARKDOWN|RESULTADO|
-|:--------:|:------:|
-|\#H1#|#H1#|
-|\##H2##|##H2##|
-|\###H3###|###H3###|
-|\####H4####|####H4####|
-|\#####H5#####|#####H5#####|
-|\######H6######|######H6######|
+|        |   ENCABEZADOS   |            |
+|:--------:|:---------:|:--------------:|
+| #H1#| ##H2##|###H3###|
+|  ####H4####|#####H5#####|######H6######|
 
 
 ### ESTILOS DE LETRA ###
