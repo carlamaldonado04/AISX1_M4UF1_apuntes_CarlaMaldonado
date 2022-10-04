@@ -28,17 +28,25 @@ Añadiendo # podemos cambiar el tamaño de nuestros títulos, cuantos más ponga
 
  #### NEGRITA ####
   
-     Si lo que queremos es enfatizar una palabra o conjunto de palabras, lo único que debemos de hacer es añadir dos asteriscos (*) al principio y al final. 
-     Otra manera de hacerlo es añadiendo dos barras bajas (_), también al inicio y al final de la palabra. 
-     Más adelante veremos porque nos interesa saber las dos maneras de poner en negrita nuestro texto.
+     Si lo que queremos es enfatizar una palabra o conjunto de palabras, lo único que debemos de 
+     hacer es añadir dos asteriscos (*) al principio y al final. 
+     Otra manera de hacerlo es añadiendo dos barras bajas (_), también al inicio y al final de 
+     la palabra. 
+     Más adelante veremos porque nos interesa saber las dos maneras de poner en negrita nuestro 
+     texto.
 
  #### ITÁLICA ####
-    Por otra parte, si lo que queremos es citar alguna palabra extranjera o captar la atención del lector de una manera diferente, podemos usar la letra itálica de una forma muy similar a la que usamos para la letra negrita. 
-    Solo tenemos que añadir un asterisco (*) o una barra baja (_), al principio y al final de lo que queramos en cursiva.
+    Por otra parte, si lo que queremos es citar alguna palabra extranjera o captar la atención 
+    del lector de una manera diferente, podemos usar la letra itálica de una forma muy similar 
+    a la que usamos para la letra negrita. 
+    Solo tenemos que añadir un asterisco (*) o una barra baja (_), al principio y al final de 
+    lo que queramos en cursiva.
 
 #### ANIDAR ESTILOS ####
-    Antes hemos comentado dos formas para cambiar el estilo de nuestra letra, pues bien, eso nos será útil cuando queramos ambos modos. 
-    Es tan sencillo como emplear ambas técnicas a la vez, podemos empezar con un esterisco seguido de dos barras bajas, insertar la palabra, cerrar las 
+    Antes hemos comentado dos formas para cambiar el estilo de nuestra letra, pues bien, eso 
+    nos será útil cuando queramos ambos modos. 
+    Es tan sencillo como emplear ambas técnicas a la vez, podemos empezar con un esterisco seguido 
+    de dos barras bajas, insertar la palabra, cerrar las 
     barras baja y luego el esterisco o viceversa.
     
 |MARCKDOWN|RESULTADO|
