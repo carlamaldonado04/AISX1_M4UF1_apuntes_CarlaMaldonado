@@ -71,15 +71,16 @@ Tenemos dos tipos de listas: ordenas y desordenadas.
     Si lo que queremos no es una lista numerada, podemos usar las listas desordendas, 
     las cuales se crean de dos maneras: con un *, con un + o bien con un -
     Ambas tres tendrán el mismo efecto, es decir, se convertirán en un punto
-    \+ primer elemento +PRIMER
-*primer elemento
-* PRIMER
+\+ primer elemento 
++ primer elemento
+
 
 
 ### PARRÁFOS ###
 Para crear parráfos con Markdown tan solo hay que dejar una línea en blanco.
 
 ### CÓDIGO ###
+``código``
 
 
 
