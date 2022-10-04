@@ -72,7 +72,7 @@ Tenemos dos tipos de listas: ordenas y desordenadas.
     las cuales se crean de dos maneras: con un *, con un + o bien con un -
     Ambas tres tendrán el mismo efecto, es decir, se convertirán en un punto
     \+ primer elemento +PRIMER
-    + primer elemento
+    *primer elemento
 
 
 ### PARRÁFOS ###
