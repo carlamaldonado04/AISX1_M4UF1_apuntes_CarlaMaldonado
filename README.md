@@ -80,13 +80,31 @@ Tenemos dos tipos de listas: ordenas y desordenadas.
 Para crear parráfos con Markdown tan solo hay que dejar una línea en blanco.
 
 ### CÓDIGO ###
-    Las palabras en código pueden ser útiles para captar la atención del usuario, para ello 
-    tan solo deberemos añadir dos acentos abiertos al inicio y dos al final de la palabra 
-    que queramos resaltar
+Las palabras en código pueden ser útiles para captar la atención del usuario, para ello 
+tan solo deberemos añadir dos acentos abiertos al inicio y dos al final de la palabra 
+que queramos resaltar
 \``código``
 
 ``código``
 ### ENLACES ###
+La creación de enlaces la dividiremos en dos pasos:
+1. Añadir el texto del link entre corchetes
+2. Añadir el link entre paréntesis, dentro de este, al final añadiremos un título opcional para el link, 
+que será el que veremos cuando pasemos el ratón por encima 
+
+[Link](https://url/ "título del enlace")
+
+
+### IMÁGENES ###
+El procedimiento para añadir imágenes es muy similar al que utilizamos para los enlaces, aunque cambia el principio.
+1. Subimos la foto, previamente guardada en nuestro PC, a nuestro repositorio GITHUB.
+2. Hacemos click con el botón derecho del ratón sobre la foto y copiamos el vínculo.
+3. Abrimos nuestro repositorio
+4. Para insertar la imagen, ponemos el signo de exclamación al principio
+5. Abrimos corchetes y ponemos el nombre de la foto
+6. Ahora abrimos paréntesis, copiamos el link de la foto y al final, antes de cerrar los corchetes, podemos añadir
+un texto opcional de la imagen entre comillas.
+
 
 
 
