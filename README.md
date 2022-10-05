@@ -83,8 +83,8 @@ Para crear parráfos con Markdown tan solo hay que dejar una línea en blanco.
 Las palabras en código pueden ser útiles para captar la atención del usuario, para ello 
 tan solo deberemos añadir dos acentos abiertos al inicio y dos al final de la palabra 
 que queramos resaltar
-\``código``
 
+\``código``
 ``código``
 ### ENLACES ###
 La creación de enlaces la dividiremos en dos pasos:
@@ -92,6 +92,7 @@ La creación de enlaces la dividiremos en dos pasos:
 2. Añadir el link entre paréntesis, dentro de este, al final añadiremos un título opcional para el link, 
 que será el que veremos cuando pasemos el ratón por encima 
 
+/[Link](https://url/ "título del enlace")
 [Link](https://url/ "título del enlace")
 
 
