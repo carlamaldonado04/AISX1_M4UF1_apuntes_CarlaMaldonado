@@ -49,9 +49,9 @@ Añadiendo # podemos cambiar el tamaño de nuestros títulos, cuantos más ponga
     de dos barras bajas, insertar la palabra, cerrar las barras baja y luego el esterisco o 
     viceversa.
     
-|MARCKDOWN|RESULTADO|
-|:---------:|:---------:|
-| \**negrita** | **negrita** |
+                      |MARCKDOWN|RESULTADO|
+                      |:---------:|:---------:|
+                      | \**negrita** | **negrita** |
 | \__negrita__|__negrita__|
 |\*cursiva*|*cursiva*|
 |\_cursiva_|_cursiva_|
