@@ -4,7 +4,7 @@ En este documento podremos ver lo que hemos ido aprendiendo durante esta UF1, co
 
 ## ÍNDICE ##
 1. GITHUB
-2. Marckdown
+2. MARKDOWN
     + Encabezados
     + Estilos de letra
     + Listas
@@ -15,7 +15,7 @@ En este documento podremos ver lo que hemos ido aprendiendo durante esta UF1, co
     + Tablas
 3. HTML
 
-## H1 GITHUB ##
+## 1. GITHUB ##
 
 
 
@@ -72,8 +72,8 @@ Tenemos dos tipos de listas: ordenas y desordenadas.
     Las listas ordenadas son aquellas que están numeradas.
     Para hacerlas solo tenemos que númerar nuestra lista y 
     añadir un punto después del número, es decir,
-    \1. primer elemento     1. primer elemento
-    \2. segundo elemento    2. segundo elemento
+    1. primer elemento
+    2. segundo elemento
 
  #### LISTAS DESORDENADAS ####
     Si lo que queremos no es una lista numerada, podemos usar las listas desordendas, 
