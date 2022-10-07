@@ -1,25 +1,33 @@
 # AISX1_M4UF1_apuntes_CarlaMaldonado
 # DOCUMENTACIÓN DE LA UF1 CON MARKDOWN #
-En este documento podremos aprender algunas etiquetas básicas de Markdown, que hemos ido descubriendo durante esta UF1 en la asignatura de lenguajes de marcas.
+En este documento podremos ver lo que hemos ido aprendiendo durante esta UF1, como ahora Markdown, HTML o GITHUB, entre otras.
 
 ## ÍNDICE ##
-1. Encabezados
-2. Estilos de letra
-3. Listas
-4. Párrafos
-5. Código
-6. Enlaces
-7. Imágenes
-8. Tablas
+1. GITHUB
+2. Marckdown
+    + Encabezados
+    + Estilos de letra
+    + Listas
+    + Párrafos
+    + Código
+    + Enlaces
+    + Imágenes
+    + Tablas
+3. HTML
 
+## H1 GITHUB ##
+
+
+
+
+## 2. MARCDOWN ##
 ### ENCABEZADOS ###
 Añadiendo # podemos cambiar el tamaño de nuestros títulos, cuantos más pongamos más pequeño será. 
 
 |        |   ENCABEZADOS   |            |
 |:--------:|:---------:|:--------------:|
-| #H1#| ##H2##|###H3###| ####H4####|
-| #####H5#####|######H6######|
-
+| #H1#| ##H2##|###H3###| 
+| ####H4#### | #####H5#####| ######H6######|
 
 ### ESTILOS DE LETRA ###
   Para cambiar el estilo de nuestro texto, 
