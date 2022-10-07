@@ -108,7 +108,7 @@ El procedimiento para añadir imágenes es muy similar al que utilizamos para lo
 6. Ahora abrimos paréntesis, copiamos el link de la foto y al final, antes de cerrar los corchetes, podemos añadir
 un texto opcional de la imagen entre comillas.
 
-\![alt text](https:/pegar.vínculo.foto.png "título")
+\![alt text]\(https:/pegar.vínculo.foto.png "título")
 
 
 
