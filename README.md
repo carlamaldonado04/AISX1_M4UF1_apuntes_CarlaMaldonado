@@ -49,9 +49,9 @@ Añadiendo # podemos cambiar el tamaño de nuestros títulos, cuantos más ponga
     de dos barras bajas, insertar la palabra, cerrar las barras baja y luego el esterisco o 
     viceversa.
     
-                      |MARCKDOWN|RESULTADO|
-                      |:---------:|:---------:|
-                      | \**negrita** | **negrita** |
+|MARCKDOWN|RESULTADO|
+|:---------:|:---------:|
+| \**negrita** | **negrita** |
 | \__negrita__|__negrita__|
 |\*cursiva*|*cursiva*|
 |\_cursiva_|_cursiva_|
@@ -94,6 +94,7 @@ La creación de enlaces la dividiremos en dos pasos:
 que será el que veremos cuando pasemos el ratón por encima 
 
 \[Link](https://url/ "título del enlace")
+
 [Link](https://url/ "título del enlace")
 
 
@@ -106,6 +107,8 @@ El procedimiento para añadir imágenes es muy similar al que utilizamos para lo
 5. Abrimos corchetes y ponemos el nombre de la foto
 6. Ahora abrimos paréntesis, copiamos el link de la foto y al final, antes de cerrar los corchetes, podemos añadir
 un texto opcional de la imagen entre comillas.
+
+![alt text](https:/pegar.vínculo.foto.png "título")
 
 
 
