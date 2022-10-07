@@ -17,8 +17,8 @@ Añadiendo # podemos cambiar el tamaño de nuestros títulos, cuantos más ponga
 
 |        |   ENCABEZADOS   |            |
 |:--------:|:---------:|:--------------:|
-| #H1#| ##H2##|###H3###|
-|  ####H4####|#####H5#####|######H6######|
+| #H1#| ##H2##|###H3###| ####H4####|
+| #####H5#####|######H6######|
 
 
 ### ESTILOS DE LETRA ###
