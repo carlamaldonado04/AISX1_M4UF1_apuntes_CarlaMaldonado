@@ -111,6 +111,12 @@ un texto opcional de la imagen entre comillas.
 \![alt text]\(https:/pegar.vínculo.foto.png "título")
 
 
+### TABLAS ###
+Para hacer tablas, tan solo, tenemos que seguir 3 pasos:
+1. Para poner los encabezados empezaremos poneniendo un barra recta al principio de cada título
+\|encabezado 1 \| encabezado 2 \|
+
+
 
 
 
