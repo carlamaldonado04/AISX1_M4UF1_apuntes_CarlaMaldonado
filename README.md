@@ -114,8 +114,24 @@ un texto opcional de la imagen entre comillas.
 ### TABLAS ###
 Para hacer tablas, tan solo, tenemos que seguir 3 pasos:
 1. Para poner los encabezados empezaremos poneniendo un barra recta al principio de cada título
-\|encabezado 1 \| encabezado 2 \|
 
+|encabezado 1 | encabezado 2 |
+
+2. Entre los encabezados y el resto de contenido, añadiremos una fila con guiones:
+    + si lo que queremos es tener el texto alineado a la izquierda: | ---- |
+
+    + si queremos tener el texto centrada: | :----: |
+    
+    + para poner el texto alineado a la derecha: | ----: |
+
+3. Añadiremos los demás elementos a continuación, de la misma manera que el encabezado
+
+|elemento 1|elemento2|
+
+Si seguimos los tres pasos la tabla nos quedaría así:
+|encabezado 1 | encabezado 2 |
+| :------: | :-----------: |
+|elemento 1|elemento2|
 
 
 
