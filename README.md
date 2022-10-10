@@ -16,7 +16,7 @@ En este documento podremos ver lo que hemos ido aprendiendo durante esta UF1, co
 3. HTML
 
 ## 1. GITHUB ##
-![IMG.1678.png](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/IMG-1678.PNG "RepNuevo)
+![IMG.1678.png](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/IMG-1678.PNG "RepNuevo")
 
 
 
