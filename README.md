@@ -16,11 +16,36 @@ En este documento podremos ver lo que hemos ido aprendiendo durante esta UF1, co
 3. HTML
 
 ## 1. GITHUB ##
+Para crear un nuevo proyecto, tenemos que ir a la página de Github y crear un nuevo repositorio: 
 ![IMG.1678.png](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/IMG-1679.jpg "RepNuevo")
+
+Una vez le hayamos dado a "crear nuevo repositorio", tendremos que ponerle un nombre a nuestro proyecto, además tendremos la opción de tenerlo privado o público para que todo el mundo lo vea. 
+Es importante activar la opción de "Add a README file".
+
+![IMG.1679.PNG](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/IMG-1679.jpg "AddREADME")
+
+Para poder clonarlo, tendre que copiar la URL, para hacerlo tendremos que pulsar en *code* y darle al botón señalado en amarillo
+![URL](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/IMG-1687.jpg "clonar URL")
+
+Una vez creado, deberemos clonarlo en nuestro PC, dado que nunca trabajaremos directamente desde github, sino que lo haremos con **VisualStudio** . Para hacerlo abriremos una consola, poniendo en el buscador *cmd*.
+![cmd](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/IMG-1681.jpg "clonar")
+
+Primero, para salir de la carpeta en la que nos pone por defecto, pondremos *cd..* (color rosa).
+
+Después, en caso de que querramos crear una carpeta nueva para clonar nuestro repositorio, pondremos *md + "Nombre de la carpeta"* (color amarillo).
+
+En caso de que ya la tengamos creada, como es en mi caso, tendremos que escribir *cd + "nombre de la carpeta" (color verde)
+
+Por último, escribiremos *git clone + copiar la URL* (color azul)
+
+Para comprobar que se ha clonado, podemos ir a nuestra carpeta y tendría que aparecer un archivo *README*
+![comprobación](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/IMG-1682.jpg "1682")
 
 
 
 ## 2. MARCDOWN ##
+A continuación veremos algunas etiquetas con el lenguaje de *Markdown* que podemos usar para crear nuestros proyectos.
+
 ### ENCABEZADOS ###
 Añadiendo # podemos cambiar el tamaño de nuestros títulos, cuantos más pongamos más pequeño será. 
 
@@ -141,7 +166,28 @@ Si seguimos los tres pasos la tabla nos quedaría así:
 | :------: | :-----------: |
 |elemento 1|elemento2|
 
+## 3. HTML ##
+Lo primero que debemos de hacer es entrar en *visio* y crear un archivo llamado *index*
+Una vez creado podremos ver como la aplicación ya detecta que es un archivo HTML.
+![html:5](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/IMG-1683.jpg "1683")
 
+Además si escribimos *html:5* nos aparecerán las dos partes principales: la cabeza = *head* y el cuerpo = *body*
+ ![head](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/IMG-1690.jpg "1690")
+
+ El head, sirve para ayudar a definir lo que vamos a ver, aunque no se verá en el resultado final, es decir es la configuración interna pero el usuario no lo verá. 
+ Lo único que verá, al abrir nuestro documento será lo que pongamos entres las etiquetas *<title>*
+
+ Por otra parte, tenemos el body, que es lo que verá el usuario cuando acceda. A continuación veremos algunas etiquetas que pueden ser útiles para crear el documento.
+ ![body](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/IMG-1691.jpg "body")
+
+Cuando hayamos acabado de editar nuestro documento, debemos subirlo a Github, para hacerlo, nos iremos a nuestro perfil y entraremos al repositorio donde queremos subirlo.
+
+Le daremos a *Add file* y luego a *Upload files*.
+![subir](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/IMG-1685.jpg)
+
+Después escogeremos el archivo que querramos y guardaremos los cambios.
+
+![cambios](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/IMG-1686.jpg)
 
 
 
