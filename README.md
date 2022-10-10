@@ -3,8 +3,8 @@
 En este documento podremos ver lo que hemos ido aprendiendo durante esta UF1, como ahora Markdown, HTML o GITHUB, entre otras.
 
 ## ÍNDICE ##
-1. GITHUB
-2. MARKDOWN
+**1. GITHUB**
+**2. MARKDOWN**
     + Encabezados
     + Estilos de letra
     + Listas
@@ -13,7 +13,7 @@ En este documento podremos ver lo que hemos ido aprendiendo durante esta UF1, co
     + Enlaces
     + Imágenes
     + Tablas
-3. HTML
+**3. HTML**
 
 ## 1. GITHUB ##
 Para crear un nuevo proyecto, tenemos que ir a la página de Github y crear un nuevo repositorio: 
