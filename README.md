@@ -49,10 +49,7 @@ A continuación veremos algunas etiquetas con el lenguaje de *Markdown* que pode
 ### ENCABEZADOS ###
 Añadiendo # podemos cambiar el tamaño de nuestros títulos, cuantos más pongamos más pequeño será. 
 
-|        |   ENCABEZADOS   |            |
-|:--------:|:---------:|:--------------:|
-| #H1#| ##H2##|###H3###| 
-| ####H4#### | #####H5#####| ######H6######|
+![img1](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/img1.jpg "encabezados")
 
 ### ESTILOS DE LETRA ###
   Para cambiar el estilo de nuestro texto, 
@@ -188,6 +185,8 @@ Le daremos a *Add file* y luego a *Upload files*.
 Después escogeremos el archivo que querramos y guardaremos los cambios.
 
 ![cambios](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/IMG-1686.jpg)
+
+
 
 
 
