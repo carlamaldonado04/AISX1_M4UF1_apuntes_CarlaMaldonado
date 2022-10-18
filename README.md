@@ -1,4 +1,4 @@
-# ASIX1_M4UF1_apuntes_CarlaMaldonado
+# AISX1_M4UF1_apuntes_CarlaMaldonado
 # DOCUMENTACIÓN DE LA UF1 CON MARKDOWN #
 En este documento podremos ver lo que hemos ido aprendiendo durante esta UF1, como ahora Markdown, HTML o GITHUB, entre otras.
 
@@ -161,10 +161,10 @@ Para hacer tablas, tan solo, tenemos que seguir 3 pasos:
 Si seguimos los tres pasos la tabla nos quedaría así:
 |encabezado 1 | encabezado 2 |
 | :------: | :-----------: |
-|elemento 1|elemento2|
+|elemento 1|elemento 2|
 
 ## 3. HTML ##
-Lo primero que debemos de hacer es entrar en *visio* y crear un archivo llamado *index*
+Lo primero que debemos de hacer es entrar en *visio* y crear un archivo llamado *index*.
 Una vez creado podremos ver como la aplicación ya detecta que es un archivo HTML.
 ![html:5](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/IMG-1683.jpg "1683")
 
@@ -172,19 +172,28 @@ Además si escribimos *html:5* nos aparecerán las dos partes principales: la ca
  ![head](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/IMG-1690.jpg "1690")
 
  El head, sirve para ayudar a definir lo que vamos a ver, aunque no se verá en el resultado final, es decir es la configuración interna pero el usuario no lo verá. 
- Lo único que verá, al abrir nuestro documento será lo que pongamos entres las etiquetas *<title>*
+ Lo único que verá, al abrir nuestro documento será lo que pongamos entre las etiquetas *<title>*
 
  Por otra parte, tenemos el body, que es lo que verá el usuario cuando acceda. A continuación veremos algunas etiquetas que pueden ser útiles para crear el documento.
- ![body](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/IMG-1691.jpg "body")
+ ![ "body")
 
-Cuando hayamos acabado de editar nuestro documento, debemos subirlo a Github, para hacerlo, nos iremos a nuestro perfil y entraremos al repositorio donde queremos subirlo.
+ ### IMÁGENES EN HTML ###
+Para poder poner fotos en nuestros documentos HTML, crearemos una carpeta dentro del repositorio local llamada, por ejemplo, *img*, ahí guardaremos las imágenes. Para añadirlas escribiremos: <img src="ruta de donde esta la foto">
+# FALTA IMAGEN DE LAS COSAS DE HTML, VOLVER A HACER PORQ FALTA LA ETIQUETA DE /<P> y cambiar etiqueta il por li #
 
-Le daremos a *Add file* y luego a *Upload files*.
-![subir](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/IMG-1685.jpg)
+### LINKS ###
+En HTML, tenemos la posibilidad de crear links dentro de nuestro documento. Para ello seguiremos unos pasos:
++ Añadiremos la etiqueta: <a href="#nombre">texto que queramos *linkear*
++ Iremos al sitio donde querramos que vaya nuestra página si le damos al link y escribiremos <a id="nommbre">
 
-Después escogeremos el archivo que querramos y guardaremos los cambios.
 
-![cambios](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/IMG-1686.jpg)
+### SUBIR CAMBIOS A GITHUB ###
+Cuando hayamos acabado de editar nuestro documento, debemos subirlo a Github, para hacerlo, abriremos una consola cmd. Antes de todo, debemos sincronizar los cambios de los dos repositorios: local y remoto, para ellos utilizaremos el *git pull --a*
+
+Una vez hecho esto, entraremos a la carpeta que queremos subir, para eso escribiremos *cd + nombre de la carpeta* , después escribiremos  *git add* para añadir al repositorio local , ahora, para preparar la sincronización entre el repositorio local y el remoto podremos *git commit -m "el cambio realizado"*, por último para subir esos cambios *git push origin main*.
+
+
+
 
 
 
