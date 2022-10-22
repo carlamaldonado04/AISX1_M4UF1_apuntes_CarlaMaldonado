@@ -179,7 +179,8 @@ Además si escribimos *html:5* nos aparecerán las dos partes principales: la ca
 
  ### IMÁGENES EN HTML ###
 Para poder poner fotos en nuestros documentos HTML, crearemos una carpeta dentro del repositorio local llamada, por ejemplo, *img*, ahí guardaremos las imágenes. Para añadirlas escribiremos: <img src="ruta de donde esta la foto">
-# FALTA IMAGEN DE LAS COSAS DE HTML, VOLVER A HACER PORQ FALTA LA ETIQUETA DE /<P> y cambiar etiqueta il por li #
+![body](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/body%20bueno.jpg "body")
+![body](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/body%20si.jpg "body")
 
 ### LINKS ###
 En HTML, tenemos la posibilidad de crear links dentro de nuestro documento. Para ello seguiremos unos pasos:
@@ -188,7 +189,7 @@ En HTML, tenemos la posibilidad de crear links dentro de nuestro documento. Para
 
 
 ### SUBIR CAMBIOS A GITHUB ###
-Cuando hayamos acabado de editar nuestro documento, debemos subirlo a Github, para hacerlo, abriremos una consola cmd. Antes de todo, debemos sincronizar los cambios de los dos repositorios: local y remoto, para ellos utilizaremos el *git pull --a*
+Cuando hayamos acabado de editar nuestro documento, debemos subirlo a Github, para hacerlo, abriremos una consola cmd. Antes de todo, debemos sincronizar los cambios de los dos repositorios: local y remoto, para ellos utilizaremos el *git pull --all*
 
 Una vez hecho esto, entraremos a la carpeta que queremos subir, para eso escribiremos *cd + nombre de la carpeta* , después escribiremos  *git add* para añadir al repositorio local , ahora, para preparar la sincronización entre el repositorio local y el remoto podremos *git commit -m "el cambio realizado"*, por último para subir esos cambios *git push origin main*.
 
