@@ -14,7 +14,6 @@ En este documento podremos ver lo que hemos ido aprendiendo durante esta UF1, co
     + Imágenes
     + Tablas
 3. HTML
-4. CSS
 
 ## 1. GITHUB ##
 Para crear un nuevo proyecto, tenemos que ir a la página de Github y crear un nuevo repositorio: 
@@ -196,102 +195,6 @@ En HTML, tenemos la posibilidad de crear links dentro de nuestro documento. Para
 Cuando hayamos acabado de editar nuestro documento, debemos subirlo a Github, para hacerlo, abriremos una consola cmd. Antes de todo, debemos sincronizar los cambios de los dos repositorios: local y remoto, para ellos utilizaremos el *git pull --all*
 
 Una vez hecho esto, entraremos a la carpeta que queremos subir, para eso escribiremos *cd + nombre de la carpeta* , después escribiremos  *git add* para añadir al repositorio local , ahora, para preparar la sincronización entre el repositorio local y el remoto podremos *git commit -m "el cambio realizado"*, por último para subir esos cambios *git push origin main*.
-
-## 3. CSS ##
-El CSS, nos ayudará a dar forma a nuestros documentos HTML, se encargará de la parte estética.
-
-### UBICACIÓN DE LAS PROPIEDADES CSS ###
-1. EN LA ETIQUETA
-Usando el atributo _style_ de la siguiente manera
-\<p style="text-align: center; color: ">
-
-FOTO 1 CSS
-
-
-2. EN LA CABECERA DEL DOCUMENTO HMTL
-Usaremos el mismo atributo que antes, pero en el _head_. Esto nos servirá cuando queramos que más de un elemento tenga la misma estética, como por ejemplo que todos los titulos sean rosas y esten alineados en el centro.
-
-FOTO 2 CSS
-
-3. EN UN DOCUMENTO EXTERNO
-Crearemos un nuevo documento con la extensión _.css_
-En el head de nuestro documento HTML pondremos <link rel="stylesheet" href="estils.css" type="text/css"> y en nuestro fichero estils.css p{ text.align:center; color:blue; }.
-Usando esta última forma podemos reutilizar nuestro fichero CSS para diferentes documentos HTML.
-
-### SINTAXIS BÁSICA ###
-1. SINTAXIS GENÉRICA
-selector {
-    declaración1
-    declaración2
-}
- FOTO3 y FOTO4
-
- 2. AGRUPAR SELECTORES
- Por ejemplo, si queremos aplicar el mismo color a los titulos y subtitulos podemos escribir:
- h1,h2 {color:azul}
-
- 3. TIPOS DE SELECTORES
- + SELECTOR DE CLASE
- Dentro de cada etiqueta que queramos que tengan el mismo estilo escribiremos class="NombreClase", y en el head escribiremos _.NombreClase_ 
- Es decir: 
- FOTO 5
- FOTO 6
-
- + SELECTOR DE ID
- Es parecido al selector de clase, solo tenemos que escribir id="NombreID", dentro de la etiqueta, y en head escribiremos _#NombreID_
- Es decir:
-FOTO7 Y FOTO8
-
-+ SELECTOR UNIVERSAL
-Este tipo de selector selecciona todos los elementos de la página para aplicar estilos.
-Por ejemplo:
-* { border: 1px solid #000000}, para poner que toda la pagina tenga un borde negro liso de 1 píxel.
- 
-+ SELECTOR DE ATRIBUTOS
-Selecciona elementos en función del atributo, por ejemplo si queremos que todas las fotos con el atributo _alt_ tenga un borde negro escribiremos:
-img [alt] {border: 1px solid }
-
-+ SELECTOR DE HIJOS
-Sirve para seleccionar elementos concretos y aplicarles un estilo especifico. Por ejemplo: 
-h1>strong { color:rosa }, hará que solo los títulos _h1_ que tengan el selector de strong sean rosas.
-
-+ SELECTOR DE DESCENDIENTES
-Hace que los selectores de descendientes seleccionen los elementos pertinentes en cualquier punto de la jerarquía del elemento:
- FOTO9
-
-+ PSEUDOCLASES
-Sirve para definir estilos a los diversos estados de los elementos, como por ejemplo, indicar que es un link.
-Para ello escribiremos: 
-a:link {color:green}
-
-### MÁRGENES, BORDES Y RELLENO ###
-+ MARGIN
-Para definir los márgenes, escribiremos _margin-_, y dependiendo cual queramos definir: -top, -right, -bottom, -left.
-
-+ BORDER
-Al borde, le podemos cambiar, la anchura, el estilo y el color.
-Podemos definirlo todo junto:
-FOTO10
-O por separado
-border-right: [anchura, color, estilo]
-border-top: [anchura, color, estilo]
-...
-
-+ PADDING
-Es el relleno de nuestro documento y es para definir cuanto ocupará el contenido de nuestro documento. Funciona igual que el margin: padding-top, padding-bottom,...
-
-
-### GOOGLE FONTS ###
-Con CSS, podemos cambiar la tipografía a nuestro texto, para ellos usaremos la web de google fonts.
-Seleccionaremos la tipografía que deseemos
-Copiaremos el <link> en el head, encima de style
-Y el _CSS rules to specify families_ en style donde queramos que se aplique ese estilo, es decir:
-FOTO11
-
-
-
-
-
 
 
 
