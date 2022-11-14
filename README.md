@@ -229,17 +229,20 @@ selector {
 
 
  2. AGRUPAR SELECTORES
+
  Por ejemplo, si queremos aplicar el mismo color a los titulos y subtitulos podemos escribir:
  h1,h2 {color:azul}
 
  3. TIPOS DE SELECTORES
  + SELECTOR DE CLASE
+
  Dentro de cada etiqueta que queramos que tengan el mismo estilo escribiremos class="NombreClase", y en el head escribiremos _.NombreClase_ 
  Es decir: 
 ![link](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/foto5sisisisiCSS.jpg "foto5")
 ![link](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/foto6CSS.jpg "foto6")
 
  + SELECTOR DE ID
+
  Es parecido al selector de clase, solo tenemos que escribir id="NombreID", dentro de la etiqueta, y en head escribiremos _#NombreID_
  Es decir:
 ![link](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/foto7CSS.jpg "foto7")
@@ -247,41 +250,50 @@ selector {
 
 
 + SELECTOR UNIVERSAL
+
 Este tipo de selector selecciona todos los elementos de la página para aplicar estilos.
 Por ejemplo:
 * { border: 1px solid #000000}, para poner que toda la pagina tenga un borde negro liso de 1 píxel.
  
 + SELECTOR DE ATRIBUTOS
+
 Selecciona elementos en función del atributo, por ejemplo si queremos que todas las fotos con el atributo _alt_ tenga un borde negro escribiremos:
 img [alt] {border: 1px solid }
 
 + SELECTOR DE HIJOS
+
 Sirve para seleccionar elementos concretos y aplicarles un estilo especifico. Por ejemplo: 
 h1>strong { color:rosa }, hará que solo los títulos _h1_ que tengan el selector de strong sean rosas.
 
 + SELECTOR DE DESCENDIENTES
+
 Hace que los selectores de descendientes seleccionen los elementos pertinentes en cualquier punto de la jerarquía del elemento:
 ![link](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/foto9CSS.jpg "foto9")
 
 + PSEUDOCLASES
+
 Sirve para definir estilos a los diversos estados de los elementos, como por ejemplo, indicar que es un link.
 Para ello escribiremos: 
 a:link {color:green}
 
 ### MÁRGENES, BORDES Y RELLENO ###
 + MARGIN
+
 Para definir los márgenes, escribiremos _margin-_, y dependiendo cual queramos definir: -top, -right, -bottom, -left.
 
 + BORDER
+
 Al borde, le podemos cambiar, la anchura, el estilo y el color.
 Podemos definirlo todo junto:
 ![link](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/foto10CSS.jpg "foto10")
+
 O por separado
 border-right: [anchura, color, estilo]
 border-top: [anchura, color, estilo]
 ...
 
 + PADDING
+
 Es el relleno de nuestro documento y es para definir cuanto ocupará el contenido de nuestro documento. Funciona igual que el margin: padding-top, padding-bottom,...
 
 
