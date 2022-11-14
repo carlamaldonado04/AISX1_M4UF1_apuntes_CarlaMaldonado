@@ -246,6 +246,7 @@ __3. TIPOS DE SELECTORES__
 
     Es parecido al selector de clase, solo tenemos que escribir id="NombreID", dentro de la etiqueta, y en head escribiremos _#NombreID_
     Es decir:
+    
     ![link](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/foto7CSS.jpg "foto7")
     ![link](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/foto8CSS.jpg)
 
