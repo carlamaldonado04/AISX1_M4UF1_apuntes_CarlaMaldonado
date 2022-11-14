@@ -223,6 +223,7 @@ Usando esta última forma podemos reutilizar nuestro fichero CSS para diferentes
 
 ### SINTAXIS BÁSICA ###
 __1. SINTAXIS GENÉRICA__
+
 selector {
     declaración1
     declaración2
