@@ -202,6 +202,7 @@ El CSS, nos ayudará a dar forma a nuestros documentos HTML, se encargará de la
 
 ### UBICACIÓN DE LAS PROPIEDADES CSS ###
 1. EN LA ETIQUETA
+
 Usando el atributo _style_ de la siguiente manera
 \<p style="text-align: center; color: ">
 
@@ -209,11 +210,13 @@ Usando el atributo _style_ de la siguiente manera
 
 
 2. EN LA CABECERA DEL DOCUMENTO HMTL
+
 Usaremos el mismo atributo que antes, pero en el _head_. Esto nos servirá cuando queramos que más de un elemento tenga la misma estética, como por ejemplo que todos los titulos sean rosas y esten alineados en el centro.
 
 ![links](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/foto2CSS.jpg "foto2")
 
 3. EN UN DOCUMENTO EXTERNO
+
 Crearemos un nuevo documento con la extensión _.css_
 En el head de nuestro documento HTML pondremos <link rel="stylesheet" href="estils.css" type="text/css"> y en nuestro fichero estils.css p{ text.align:center; color:blue; }.
 Usando esta última forma podemos reutilizar nuestro fichero CSS para diferentes documentos HTML.
