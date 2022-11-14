@@ -228,6 +228,7 @@ selector {
     declaración1
     declaración2
 }
+
 ![link](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/foto3CSS.jpg "link3")
 ![link](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/foto4CSS.jpg "link4")
 
@@ -243,6 +244,7 @@ __3. TIPOS DE SELECTORES__
 
     Dentro de cada etiqueta que queramos que tengan el mismo estilo escribiremos class="NombreClase", y en el head escribiremos _.NombreClase_ 
     Es decir: 
+    
     ![link](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/foto5sisisisiCSS.jpg "foto5")
     ![link](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/foto6CSS.jpg "foto6")
 
