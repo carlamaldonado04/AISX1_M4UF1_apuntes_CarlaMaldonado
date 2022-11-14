@@ -219,7 +219,7 @@ En el head de nuestro documento HTML pondremos <link rel="stylesheet" href="esti
 Usando esta última forma podemos reutilizar nuestro fichero CSS para diferentes documentos HTML.
 
 ### SINTAXIS BÁSICA ###
-1. SINTAXIS GENÉRICA
+__1. SINTAXIS GENÉRICA__
 selector {
     declaración1
     declaración2
@@ -228,53 +228,53 @@ selector {
 ![link](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/foto4CSS.jpg "link4")
 
 
- 2. AGRUPAR SELECTORES
+__2. AGRUPAR SELECTORES__
 
  Por ejemplo, si queremos aplicar el mismo color a los titulos y subtitulos podemos escribir:
  h1,h2 {color:azul}
 
- 3. TIPOS DE SELECTORES
- + SELECTOR DE CLASE
+__3. TIPOS DE SELECTORES__
+    + SELECTOR DE CLASE
 
- Dentro de cada etiqueta que queramos que tengan el mismo estilo escribiremos class="NombreClase", y en el head escribiremos _.NombreClase_ 
- Es decir: 
-![link](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/foto5sisisisiCSS.jpg "foto5")
-![link](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/foto6CSS.jpg "foto6")
+    Dentro de cada etiqueta que queramos que tengan el mismo estilo escribiremos class="NombreClase", y en el head escribiremos _.NombreClase_ 
+    Es decir: 
+    ![link](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/foto5sisisisiCSS.jpg "foto5")
+    ![link](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/foto6CSS.jpg "foto6")
 
- + SELECTOR DE ID
+    + SELECTOR DE ID
 
- Es parecido al selector de clase, solo tenemos que escribir id="NombreID", dentro de la etiqueta, y en head escribiremos _#NombreID_
- Es decir:
-![link](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/foto7CSS.jpg "foto7")
-![link](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/foto8CSS.jpg)
+    Es parecido al selector de clase, solo tenemos que escribir id="NombreID", dentro de la etiqueta, y en head escribiremos _#NombreID_
+    Es decir:
+    ![link](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/foto7CSS.jpg "foto7")
+    ![link](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/foto8CSS.jpg)
 
 
-+ SELECTOR UNIVERSAL
+    + SELECTOR UNIVERSAL
 
-Este tipo de selector selecciona todos los elementos de la página para aplicar estilos.
-Por ejemplo:
-* { border: 1px solid #000000}, para poner que toda la pagina tenga un borde negro liso de 1 píxel.
+    Este tipo de selector selecciona todos los elementos de la página para aplicar estilos.
+    Por ejemplo:
+    * { border: 1px solid #000000}, para poner que toda la pagina tenga un borde negro liso de 1 píxel.
  
-+ SELECTOR DE ATRIBUTOS
+    + SELECTOR DE ATRIBUTOS
 
-Selecciona elementos en función del atributo, por ejemplo si queremos que todas las fotos con el atributo _alt_ tenga un borde negro escribiremos:
-img [alt] {border: 1px solid }
+    Selecciona elementos en función del atributo, por ejemplo si queremos que todas las fotos con el atributo _alt_ tenga un borde negro escribiremos:
+    img [alt] {border: 1px solid }
 
-+ SELECTOR DE HIJOS
+    + SELECTOR DE HIJOS
 
-Sirve para seleccionar elementos concretos y aplicarles un estilo especifico. Por ejemplo: 
-h1>strong { color:rosa }, hará que solo los títulos _h1_ que tengan el selector de strong sean rosas.
+    Sirve para seleccionar elementos concretos y aplicarles un estilo especifico. Por ejemplo: 
+    h1>strong { color:rosa }, hará que solo los títulos _h1_ que tengan el selector de strong sean rosas.
 
-+ SELECTOR DE DESCENDIENTES
+    + SELECTOR DE DESCENDIENTES
 
-Hace que los selectores de descendientes seleccionen los elementos pertinentes en cualquier punto de la jerarquía del elemento:
-![link](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/foto9CSS.jpg "foto9")
+    Hace que los selectores de descendientes seleccionen los elementos pertinentes en cualquier punto de la jerarquía del elemento:
+    ![link](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/foto9CSS.jpg "foto9")
 
-+ PSEUDOCLASES
+    + PSEUDOCLASES
 
-Sirve para definir estilos a los diversos estados de los elementos, como por ejemplo, indicar que es un link.
-Para ello escribiremos: 
-a:link {color:green}
+    Sirve para definir estilos a los diversos estados de los elementos, como por ejemplo, indicar que es un link.
+    Para ello escribiremos: 
+    a:link {color:green}
 
 ### MÁRGENES, BORDES Y RELLENO ###
 + MARGIN
