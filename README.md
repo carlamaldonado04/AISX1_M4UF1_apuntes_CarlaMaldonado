@@ -246,7 +246,7 @@ __3. TIPOS DE SELECTORES__
 
     Es parecido al selector de clase, solo tenemos que escribir id="NombreID", dentro de la etiqueta, y en head escribiremos _#NombreID_
     Es decir:
-    
+
     ![link](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/foto7CSS.jpg "foto7")
     ![link](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/foto8CSS.jpg)
 
@@ -270,6 +270,7 @@ __3. TIPOS DE SELECTORES__
 + SELECTOR DE DESCENDIENTES
 
     Hace que los selectores de descendientes seleccionen los elementos pertinentes en cualquier punto de la jerarquía del elemento:
+
     ![link](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/foto9CSS.jpg "foto9")
 
 + PSEUDOCLASES
@@ -287,6 +288,7 @@ Para definir los márgenes, escribiremos _margin-_, y dependiendo cual queramos 
 
 Al borde, le podemos cambiar, la anchura, el estilo y el color.
 Podemos definirlo todo junto:
+
 ![link](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/foto10CSS.jpg "foto10")
 
 O por separado
@@ -304,6 +306,7 @@ Con CSS, podemos cambiar la tipografía a nuestro texto, para ellos usaremos la 
 Seleccionaremos la tipografía que deseemos
 Copiaremos el <link> en el head, encima de style
 Y el _CSS rules to specify families_ en style donde queramos que se aplique ese estilo, es decir:
+
 ![link](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/foto11CSS.jpg "foto11")
 
 
