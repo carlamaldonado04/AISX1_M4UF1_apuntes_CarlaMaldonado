@@ -184,7 +184,7 @@ Además si escribimos *html:5* nos aparecerán las dos partes principales: la ca
 
 
 ### IMÁGENES EN HTML ###
-Para poder poner fotos en nuestros documentos HTML, crearemos una carpeta dentro del repositorio local llamada, por ejemplo, *img*, ahí guardaremos las imágenes. Para añadirlas escribiremos: !<img src="ruta de donde esta la foto">
+Para poder poner fotos en nuestros documentos HTML, crearemos una carpeta dentro del repositorio local llamada, por ejemplo, *img*, ahí guardaremos las imágenes. Para añadirlas escribiremos: \<img src="ruta de donde esta la foto">
 
 ### LINKS ###
 En HTML, tenemos la posibilidad de crear links dentro de nuestro documento. Para ello seguiremos unos pasos:
