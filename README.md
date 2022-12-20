@@ -176,15 +176,15 @@ Además si escribimos *html:5* nos aparecerán las dos partes principales: la ca
  Lo único que verá, al abrir nuestro documento será lo que pongamos entre las etiquetas *<title>*
 
  Por otra parte, tenemos el body, que es lo que verá el usuario cuando acceda. A continuación veremos algunas etiquetas que pueden ser útiles para crear el documento.
- ![ "body")
 
- ### ETIQUETAS ###
+
+### ETIQUETAS ###
 ![body](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/body%20bueno.jpg "body")
 ![body](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/body%20si.jpg "body")
 
 
- ### IMÁGENES EN HTML ###
-Para poder poner fotos en nuestros documentos HTML, crearemos una carpeta dentro del repositorio local llamada, por ejemplo, *img*, ahí guardaremos las imágenes. Para añadirlas escribiremos: <img src="ruta de donde esta la foto">
+### IMÁGENES EN HTML ###
+Para poder poner fotos en nuestros documentos HTML, crearemos una carpeta dentro del repositorio local llamada, por ejemplo, *img*, ahí guardaremos las imágenes. Para añadirlas escribiremos: !<img src="ruta de donde esta la foto">
 
 ### LINKS ###
 En HTML, tenemos la posibilidad de crear links dentro de nuestro documento. Para ello seguiremos unos pasos:
