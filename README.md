@@ -188,7 +188,7 @@ Para poder poner fotos en nuestros documentos HTML, crearemos una carpeta dentro
 
 ### LINKS ###
 En HTML, tenemos la posibilidad de crear links dentro de nuestro documento. Para ello seguiremos unos pasos:
-+ Añadiremos la etiqueta: <a href="#nombre">texto que queramos "linkear"
++ Añadiremos la etiqueta: \<a href="#nombre">texto que queramos "linkear"
 + Iremos al sitio donde querramos que vaya nuestra página si le damos al link y escribiremos <a id="nommbre">
 ![links](https://github.com/carlamaldonado04/AISX1_M4UF1_apuntes_CarlaMaldonado/blob/main/links.jpg "links")
 
